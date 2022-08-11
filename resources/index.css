@@ -1,0 +1,14 @@
+.color-green {
+    color: #fff!important;
+    background-color: #32a852!important;
+}
+
+.text-green {
+    color: #32a852!important;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
